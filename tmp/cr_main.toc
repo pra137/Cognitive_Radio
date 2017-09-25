@@ -24,15 +24,3 @@
 \contentsline {subsection}{\numberline {2.3.5}Cyclo-Stationary Detection}{9}
 \contentsline {section}{\numberline {2.4}Advantages and Disadvantages}{9}
 \contentsline {section}{\numberline {2.5}Conclusion}{9}
-\contentsline {chapter}{\numberline {3}The Underlay Approach to Spectrum Sharing}{10}
-\contentsline {section}{\numberline {3.1}Introduction}{10}
-\contentsline {section}{\numberline {3.2}Problems}{10}
-\contentsline {section}{\numberline {3.3}Possible Methods}{10}
-\contentsline {subsection}{\numberline {3.3.1}Power Control}{10}
-\contentsline {subsection}{\numberline {3.3.2}Interference Mitigation}{10}
-\contentsline {subsection}{\numberline {3.3.3}Beamforming}{10}
-\contentsline {subsection}{\numberline {3.3.4}Ultra Wide Band}{10}
-\contentsline {subsection}{\numberline {3.3.5}SpreadSpectrum Sensing}{10}
-\contentsline {subsection}{\numberline {3.3.6}Null Space MIMO}{10}
-\contentsline {section}{\numberline {3.4}Advantages and Disadvantages}{10}
-\contentsline {section}{\numberline {3.5}Conclusion}{10}
