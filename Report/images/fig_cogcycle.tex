@@ -1,0 +1,16 @@
+\documentclass[tikz]{standalone}
+\begin{document}
+\begin{tikzpicture}
+	\draw[rounded corners=10mm](-3,4)rectangle(3,2)node[pos=.5]{Radio
+	Environment}; \draw[rounded corners=10mm](3,1)rectangle(9,-1)node[pos=.5]{Spectrum
+	Sensing (Observe)}; 
+	\draw[rounded corners=10mm](-3,-2)rectangle(3,-4)node[pos=.5]{Spectrum
+	Allocation (Decide)}; 
+	\draw[rounded corners=10mm](-9,1)rectangle(-3,-1)node[pos=.5]{Reconfigure
+	CR Parameters (Act)};
+	\path[bend left,->](3.1,3)edge(6,1.1);
+	\path[bend left,->](-6,1.1)edge(-3.1,3);
+	\path[bend left,->](-3.1,-3)edge(-6,-1.1);
+	\path[bend left,->](6,-1.1)edge(3.1,-3);
+\end{tikzpicture}
+\end{document}

@@ -1,0 +1,87 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem{haykin}
+S.~Haykin.
+\newblock \emph{"Cognitive Radio: Brain-empowered wireless communications"}.
+\newblock IEEE J. Select. Areas Commun., volume~23, (2005), pages 201--220.
+
+\bibitem{doyle}
+Linda~E. Doyle.
+\newblock \emph{"Essentials of Cognitive Radio"}.
+\newblock Cambridge Wireless Essentials Series, Cambridge University Press.
+
+\bibitem{fcc1}
+Federal~Communications Commission.
+\newblock \emph{"FCC. Spectrum Policy Task Force Report"}.
+\newblock Tech. Rep. 02-135.
+\newline\urlprefix\url{http://hraunfoss.fcc.gov/edocs\_public/attachmatch/DOC-228542A1.pdf}
+
+\bibitem{kolodzy}
+P.~Kolodzy.
+\newblock \emph{"Next Generation Communications: Kickoff Meeting"}.
+\newblock Proc. DARPA.
+
+\bibitem{moghaddam}
+S.~S. Moghaddadm and M.~Kamarzarrin.
+\newblock \emph{"A Comparative Study on the Two Popular Cognitive Radio
+  Spectrum Sensing Methods: Matched Filter Versus Energy Detector"}.
+\newblock American Journal of Mobile Systems, Applications and Services,
+  volume~1, no.~2, (2015), pages 132--139.
+
+\bibitem{mitola}
+J.~I. Mitola and G.~Q.~J. Maguire.
+\newblock \emph{"Cognitive Radio: Making Software Radios more personal"}.
+\newblock IEEE Personal Commun. Mag., volume~6, no.~4, (1999), pages 13--18.
+
+\bibitem{fcc2}
+Federal~Communications Commission.
+\newblock \emph{"Notice of proposed rule making and order: Facilitating
+  oppurtunities for flexible, efficient and reliable spectrum use employing
+  cognitive radio technologies"}.
+\newblock ET Docket No. 03-108.
+
+\bibitem{srinivasa}
+S.~Srinivasa and S.~A. Jafar.
+\newblock \emph{"The Throughput Potential of Cognitive Radio: A Theoretical
+  Perspective"}.
+\newblock University of California, Irvine.
+
+\bibitem{axell}
+E.~G.~Larsson E.~Axell, G.~Leus and H.~V. Poor.
+\newblock \emph{"Spectrum Sensing for Cognitive Radio - State of the art and
+  recent advances"}.
+\newblock IEEE Signal Processing Magazine.
+
+\bibitem{ycek}
+T.~Ycek and H.~Arslan.
+\newblock \emph{"A survey of spectrum sensing algorithms for cognitive radio
+  applications"}.
+\newblock IEEE Commun. Surveys Tuts., volume~11, no.~1, (2009), pages 116--130.
+
+\bibitem{larsson}
+E.~G. Larsson and M.~Skoglund.
+\newblock \emph{"Cognitive radio in a frequency-planned environment: Some basic
+  limits"}.
+\newblock IEEE Trans. Wireless Commun., volume~7, (2008), pages 4800--4806.
+
+\bibitem{drozd}
+C.~E.~Carroll A.~L.~Drozd, I. P.~Kasperovich and A.~C. Blackburn.
+\newblock \emph{"Computational electromagnetics applied to analyzing the
+  efficient utilization of the RF transmission hyperspace"}.
+\newblock Proc. IEEE/ACES Int. Conf. on the Wireless Communications and Applied
+  Computational Electromagnetics, Honolulu, Hawaii, USA, (2005), pages
+  1077--1085.
+
+\bibitem{geirhofer}
+L.~Tong S.~Geirhofer and B.~Sadler.
+\newblock \emph{"Dynamic spectrum access in the time domain: Modeling and
+  exploiting white space"}.
+\newblock IEEE Commun. Mag., volume~45, no.~5, (2007), pages 66--72.
+
+\end{thebibliography}
