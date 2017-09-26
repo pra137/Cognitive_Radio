@@ -3,27 +3,28 @@
 \section{Introduction}
 
 Technology is advancing rapidly, especially
-in the filed of wireless communications. New communication devices and signal architectures are invented
-every day, and therfore there is a dire need for higher data rates. However, the
-radio frequency (RF) spectrum is limited, and not all the devices can be
+in the field of wireless communications. New communication devices and signal
+architectures are invented every day, and therefore there is a dire need for
+higher data rates. However, the radio frequency (RF) spectrum is limited, and not all the devices can be
 allocated spectrum with the present allocation schemes. A dynamic spectrum
 allocation has to be introduced to accomodate new technologies, and use the
 spectrum efficiently. This report discusses a possible solution to the problem
-of spectrum sharing - Cognitive Radio. Chapter $1$ discusses the basics of
-Cognitive Radio, its requirements and the challenges. A deeper insight into
+of spectrum sharing - \textit{Cognitive Radio}. Chapter $1$ discusses the basics
+of Cognitive Radio, its requirements and the challenges. A deeper insight into
 methods of Spectrum Sharing (Interweave and Underlay) is given in Chapters $2$
 and $3$.
 
 \section{Radio Spectrum}
 The radio spectrum is a limited natural resource\cite{haykin}. This spectrum is
 divided into frequency bands, each for a particular service, and certain technologies.
-Frequency allocation is decided by the International Telecommunication Union
-(ITU), an agency of the United Nations, at the international level, and national
-regulatory authorities at the national levels\cite{doyle}. Frequency assignment
+Frequency allocation is decided by the \textit{International Telecommunication
+Union} (ITU), an agency of the United Nations, at the international level, and
+national regulatory authorities at the national levels\cite{doyle}. Frequency assignment
 is done at the national level, wherein subdivisions of the spectrum are assigned to
 specific parties licensed to use them. This static allocation of the spectrum
-leads to inefficiency in the spectrum usage. Interference Protection and Dynamic
-Spectrum Access are very important for efficient spectrum usage.
+leads to inefficiency in the spectrum usage. \textit{Interference Protection}
+and \textit{Dynamic Spectrum Access} are very important for efficient spectrum
+usage.
 
 \subsection{Interference Protection}
 \cite{fcc1} states that interference protection is central to effective spectrum
@@ -127,17 +128,32 @@ problems.
 \subsubsection{Cooperative Sensing}
 Cooperative sensing employs a network of nodes sensing the spectrum together,
 and relaying information among one another. The \textit{Centralized} approach
-consists of a central node, and a network of nodes around it. This network
-senses the spectrum, and relays its decisions back to the central node, which
-processes the information and makes a decision as to whether the spectrum is
+(Figure \ref{fig:coopfc_model}) consists of a central node, and a network of
+nodes around it. This network senses the spectrum, and relays its decisions back to the central node, which processes the information and makes a decision as to whether the spectrum is
 occupied or not. This information is then passed back to the nodes. Another
-approach is the \textit{Distributed} approach, where there is no central node,
-but the network of nodes share information amongst one another and make
+approach is the \textit{Distributed} approach (Figure \ref{fig:coop_model}),
+where there is no central node, but the network of nodes share information amongst one another and make
 decisions based on their requirements. The cooperative sensing approach
 overcomes the hidden node problem, as though the transmitter may not be sensed
 by one node, it would be sensed by another node in the network. The time
 required for detection of primary user considerably reduces, due to
 collaboration of all the nodes.
+
+\begin{figure}[h]
+	\centering
+	\begin{subfigure}{0.45\textwidth}
+		\includegraphics[keepaspectratio,scale=0.7]{images/cooperativefc_model.PNG}
+		\caption{Centralized Approach}
+		\label{fig:coopfc_model}
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}{0.45\textwidth}
+		\includegraphics[keepaspectratio,scale=0.7]{images/cooperative_model.PNG}
+		\caption{Distributed Approach}
+		\label{fig:coop_model}
+	\end{subfigure}
+	\caption{Cooperative Sensing Models \cite{wang}}
+\end{figure}
 
 \subsection{Spectrum Sharing Approaches}
 Once the CR has sensed the spectrum, it has to decide on an approach to share

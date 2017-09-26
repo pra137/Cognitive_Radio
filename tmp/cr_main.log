@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.9.18)  25 SEP 2017 13:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.9.25)  26 SEP 2017 14:12
 entering extended mode
 **./cr_main.tex
 (cr_main.tex
@@ -22,12 +22,12 @@ File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\latex\cite\cite.
-sty"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\latex\cite\cite.sty
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
@@ -59,49 +59,44 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\fronte
-ndlayer\tikz.sty"
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basicl
-ayer\pgf.sty"
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilit
-ies\pgfrcs.sty"
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\util
-ities\pgfutil-common.tex"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\frontendlayer\tikz.st
+y (C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgf.sty
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfrcs.sty
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-c
+ommon.tex
 \pgfutil@everybye=\toks15
 \pgfutil@tempdima=\dimen105
 \pgfutil@tempdimb=\dimen106
 
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\util
-ities\pgfutil-common-lists.tex"))
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\util
-ities\pgfutil-latex.def"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-c
+ommon-lists.tex))
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-l
+atex.def
 \pgfutil@abb=\box26
-
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everysh
-i.sty"
+ (C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\util
-ities\pgfrcs.code.tex"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfrcs.co
+de.tex
 Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
 ))
 Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
 
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basicl
-ayer\pgfcore.sty"
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\system
-layer\pgfsys.sty"
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\syst
-emlayer\pgfsys.code.tex"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgfcore.st
+y
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\systemlayer\pgfsys.st
+y
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys.
+code.tex
 Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
 
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\util
-ities\pgfkeys.code.tex"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.c
+ode.tex
 \pgfkeys@pathtoks=\toks16
 \pgfkeys@temptoks=\toks17
 
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\util
-ities\pgfkeysfiltered.code.tex"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeysfi
+ltered.code.tex
 \pgfkeys@tmptoks=\toks18
 ))
 \pgf@x=\dimen107
@@ -122,34 +117,33 @@ ities\pgfkeysfiltered.code.tex"
 \t@pgf@tokb=\toks20
 \t@pgf@tokc=\toks21
 
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\syst
-emlayer\pgf.cfg"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgf.cfg
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\syst
-emlayer\pgfsys-pdftex.def"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys-
+pdftex.def
 File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
 
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\syst
-emlayer\pgfsys-common-pdf.def"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys-
+common-pdf.def
 File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 )))
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\syst
-emlayer\pgfsyssoftpath.code.tex"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsyss
+oftpath.code.tex
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
 \pgfsyssoftpath@smallbuffer@items=\count93
 \pgfsyssoftpath@bigbuffer@items=\count94
 )
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\syst
-emlayer\pgfsysprotocol.code.tex"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsysp
+rotocol.code.tex
 File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
 ))
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xco
-lor.sty"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
- ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -163,18 +157,18 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basi
-clayer\pgfcore.code.tex"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore.
+code.tex
 Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math
-\pgfmath.code.tex"
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math
-\pgfmathcalc.code.tex"
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math
-\pgfmathutil.code.tex")
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math
-\pgfmathparser.code.tex"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.t
+ex
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathcalc.co
+de.tex
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathutil.co
+de.tex)
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathparser.
+code.tex
 \pgfmath@dimen=\dimen115
 \pgfmath@count=\count95
 \pgfmath@box=\box27
@@ -182,30 +176,30 @@ Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 \pgfmath@stack@operand=\toks23
 \pgfmath@stack@operation=\toks24
 )
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math
-\pgfmathfunctions.code.tex"
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math
-\pgfmathfunctions.basic.code.tex")
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math
-\pgfmathfunctions.trigonometric.code.tex")
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math
-\pgfmathfunctions.random.code.tex")
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math
-\pgfmathfunctions.comparison.code.tex")
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math
-\pgfmathfunctions.base.code.tex")
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math
-\pgfmathfunctions.round.code.tex")
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math
-\pgfmathfunctions.misc.code.tex")
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math
-\pgfmathfunctions.integerarithmetics.code.tex")))
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math
-\pgfmathfloat.code.tex"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
+ns.code.tex
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
+ns.basic.code.tex)
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
+ns.trigonometric.code.tex)
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
+ns.random.code.tex)
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
+ns.comparison.code.tex)
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
+ns.base.code.tex)
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
+ns.round.code.tex)
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
+ns.misc.code.tex)
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunctio
+ns.integerarithmetics.code.tex)))
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfloat.c
+ode.tex
 \c@pgfmathroundto@lastzeros=\count96
 ))
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basi
-clayer\pgfcorepoints.code.tex"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorep
+oints.code.tex
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@picminx=\dimen116
 \pgf@picmaxx=\dimen117
@@ -222,128 +216,126 @@ File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@zx=\dimen128
 \pgf@zy=\dimen129
 )
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basi
-clayer\pgfcorepathconstruct.code.tex"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorep
+athconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
 \pgf@path@lastx=\dimen130
 \pgf@path@lasty=\dimen131
 )
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basi
-clayer\pgfcorepathusage.code.tex"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorep
+athusage.code.tex
 File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
 \pgf@shorten@end@additional=\dimen132
 \pgf@shorten@start@additional=\dimen133
 )
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basi
-clayer\pgfcorescopes.code.tex"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcores
+copes.code.tex
 File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
 \pgfpic=\box28
 \pgf@hbox=\box29
 \pgf@layerbox@main=\box30
 \pgf@picture@serial@count=\count97
 )
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basi
-clayer\pgfcoregraphicstate.code.tex"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreg
+raphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
 \pgflinewidth=\dimen134
 )
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basi
-clayer\pgfcoretransformations.code.tex"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoret
+ransformations.code.tex
 File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
 \pgf@pt@x=\dimen135
 \pgf@pt@y=\dimen136
 \pgf@pt@temp=\dimen137
 )
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basi
-clayer\pgfcorequick.code.tex"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreq
+uick.code.tex
 File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
 )
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basi
-clayer\pgfcoreobjects.code.tex"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreo
+bjects.code.tex
 File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
 )
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basi
-clayer\pgfcorepathprocessing.code.tex"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorep
+athprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
 )
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basi
-clayer\pgfcorearrows.code.tex"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorea
+rrows.code.tex
 File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
 \pgfarrowsep=\dimen138
 )
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basi
-clayer\pgfcoreshade.code.tex"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcores
+hade.code.tex
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
 \pgf@max=\dimen139
 \pgf@sys@shading@range@num=\count98
 )
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basi
-clayer\pgfcoreimage.code.tex"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorei
+mage.code.tex
 File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
 
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basi
-clayer\pgfcoreexternal.code.tex"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoree
+xternal.code.tex
 File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
 \pgfexternal@startupbox=\box31
 ))
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basi
-clayer\pgfcorelayers.code.tex"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorel
+ayers.code.tex
 File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
 )
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basi
-clayer\pgfcoretransparency.code.tex"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoret
+ransparency.code.tex
 File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
 )
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basi
-clayer\pgfcorepatterns.code.tex"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorep
+atterns.code.tex
 File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
 )))
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modu
-les\pgfmoduleshapes.code.tex"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodulesh
+apes.code.tex
 File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
 \pgfnodeparttextbox=\box32
 )
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modu
-les\pgfmoduleplot.code.tex"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodulepl
+ot.code.tex
 File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 )
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compat
-ibility\pgfcomp-version-0-65.sty"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcomp
+-version-0-65.sty
 Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
 \pgf@nodesepstart=\dimen140
 \pgf@nodesepend=\dimen141
 )
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compat
-ibility\pgfcomp-version-1-18.sty"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcomp
+-version-1-18.sty
 Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
 ))
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilit
-ies\pgffor.sty"
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilit
-ies\pgfkeys.sty"
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\util
-ities\pgfkeys.code.tex"))
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\math\p
-gfmath.sty"
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math
-\pgfmath.code.tex"))
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\util
-ities\pgffor.code.tex"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgffor.sty
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfkeys.sty
+
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.c
+ode.tex))
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\math\pgfmath.sty
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.t
+ex))
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgffor.co
+de.tex
 Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math
-\pgfmath.code.tex")
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.t
+ex)
 \pgffor@iter=\dimen142
 \pgffor@skip=\dimen143
 \pgffor@stack=\toks25
 \pgffor@toks=\toks26
 ))
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\fron
-tendlayer\tikz\tikz.code.tex"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\
+tikz.code.tex
 Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libr
-aries\pgflibraryplothandlers.code.tex"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libraries\pgflibrar
+yplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \pgf@plot@mark@count=\count99
 \pgfplotmarksize=\dimen144
@@ -363,8 +355,8 @@ File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \tikznumberofcurrentchild=\count102
 \tikz@fig@count=\count103
 
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modu
-les\pgfmodulematrix.code.tex"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodulema
+trix.code.tex
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
 \pgfmatrixcurrentrow=\count104
 \pgfmatrixcurrentcolumn=\count105
@@ -372,20 +364,17 @@ File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
 )
 \tikz@expandcount=\count107
 
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\fron
-tendlayer\tikz\libraries\tikzlibrarytopaths.code.tex"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\
+libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
 )))
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\su
-bcaption.sty"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\subcaption.sty
 Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
 
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\ca
-ption.sty"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
 Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\ca
-ption3.sty"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
 Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
 \captionmargin=\dimen151
@@ -401,14 +390,14 @@ Package caption3 Info: TeX engine: e-TeX on input line 67.
 \c@subfigure=\count109
 \c@subtable=\count110
 )
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\latex\standalone
-\standalone.sty"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\latex\standalone\standalone.sty
 Package: standalone 2015/07/15 v1.2 Package to include TeX sub-files with pream
 bles
- ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
-) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
 ("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
@@ -425,11 +414,11 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 \XKV@depth=\count111
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\latex\currfile\c
-urrfile.sty"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\latex\currfile\currfile.sty
 Package: currfile 2015/04/23 v0.7c Provides the file path elements of the curre
 nt input file
- ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
@@ -442,35 +431,28 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\latex\filehook\f
-ilehook.sty"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\latex\filehook\filehook.sty
 Package: filehook 2011/10/12 v0.5d Hooks for input files
 )
 \c@currfiledepth=\count112
 )
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\latex\gincltex\g
-incltex.sty"
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\latex\svn-prov\s
-vn-prov.sty"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\latex\gincltex\gincltex.sty
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\latex\svn-prov\svn-prov.sty
 Package: svn-prov 2010/04/24 v3.1862 Package Date/Version from SVN Keywords
 )
 Package: gincltex 2011/09/04 v0.3 Include external LaTeX files like graphics
 
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\latex\adjustbox\
-adjustbox.sty"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\latex\adjustbox\adjustbox.sty
 Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
 
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\latex\adjustbox\
-adjcalc.sty"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\latex\adjustbox\adjcalc.sty
 Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
 -ends (calc, etex, pgfmath)
 )
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\latex\adjustbox\
-trimclip.sty"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\latex\adjustbox\trimclip.sty
 Package: trimclip 2012/05/16 v1.0 Trim and clip general TeX material
 
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\latex\collectbox
-\collectbox.sty"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\latex\collectbox\collectbox.sty
 Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
 \collectedbox=\box37
 )
@@ -479,9 +461,7 @@ Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
 \tc@urx=\dimen160
 \tc@ury=\dimen161
 Package trimclip Info: Using driver 'tc-pdftex.def'.
-
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\latex\adjustbox\
-tc-pdftex.def"
+ (C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\latex\adjustbox\tc-pdftex.def
 File: tc-pdftex.def 2012/05/13 v1.0 Clipping driver for pdftex
 ))
 \adjbox@Width=\dimen162
@@ -489,11 +469,11 @@ File: tc-pdftex.def 2012/05/13 v1.0 Clipping driver for pdftex
 \adjbox@Depth=\dimen164
 \adjbox@Totalheight=\dimen165
 
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\latex\ifoddpage\
-ifoddpage.sty"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\latex\ifoddpage\ifoddpage.sty
 Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
 \c@checkoddpage=\count113
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\varwidth.sty"
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\varwidth.sty"
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box38
 \sift@deathcycles=\count114
@@ -502,8 +482,8 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 ))
 \gincltex@box=\box39
 )
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\latex\filemod\fi
-lemod-expmin.sty"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\latex\filemod\filemod-expmin.st
+y
 Package: filemod-expmin 2011/09/19 v1.2 Get and compare file modification times
  (expandable; minimal)
 )) (cr_main.aux)
@@ -522,8 +502,7 @@ LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
 
-("C:\Users\Vaddadi V K Praneeth\AppData\Roaming\MiKTeX\2.9\tex\context\base\sup
-p-pdf.mkii"
+(C:\Users\comlab\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count115
 \scratchdimen=\dimen168
@@ -574,23 +553,23 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] (cr_main.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 2.
-)
+ [1
+
+])
 \tf@toc=\write4
 \openout4 = `cr_main.toc'.
 
- (chapter1.tex [1
-
-]
+ (chapter1.tex [2]
 Chapter 1.
-[2
+[3
 
-] <images/spectral_holes.PNG, id=19, 316.93407pt x 182.93344pt>
+] <images/spectral_holes.PNG, id=23, 316.93407pt x 182.93344pt>
 File: images/spectral_holes.PNG Graphic file (type png)
 
 <use images/spectral_holes.PNG>
-Package pdftex.def Info: images/spectral_holes.PNG used on input line 57.
+Package pdftex.def Info: images/spectral_holes.PNG used on input line 58.
 (pdftex.def)             Requested size: 253.54759pt x 146.34694pt.
- [3 <./images/spectral_holes.PNG>]
+ [4 <./images/spectral_holes.PNG>]
 runsystem(pdflatex -interaction=batchmode -shell-escape -jobname "images/fig_co
 gcycle" images/fig_cogcycle)...disabled (restricted).
 
@@ -598,19 +577,37 @@ gcycle" images/fig_cogcycle)...disabled (restricted).
 
 Package standalone Warning: Graphic 'images/fig_cogcycle.pdf' could not be buil
 d.
-Shell escape activated? on input line 87.
+Shell escape activated? on input line 88.
 
 (images/fig_cogcycle.tex)
 File: images/fig_cogcycle.tex Graphic file (type tex)
- [4] [5]
+ [5] [6]
+<images/cooperativefc_model.PNG, id=36, 225.84375pt x 182.18062pt>
+File: images/cooperativefc_model.PNG Graphic file (type png)
+
+<use images/cooperativefc_model.PNG>
+Package pdftex.def Info: images/cooperativefc_model.PNG used on input line 145.
+
+(pdftex.def)             Requested size: 158.08954pt x 127.52554pt.
+
+<images/cooperative_model.PNG, id=37, 255.95625pt x 166.37157pt>
+File: images/cooperative_model.PNG Graphic file (type png)
+
+<use images/cooperative_model.PNG>
+Package pdftex.def Info: images/cooperative_model.PNG used on input line 151.
+(pdftex.def)             Requested size: 179.16814pt x 116.45929pt.
+
+Overfull \hbox (17.16924pt too wide) in paragraph at lines 151--152
+[][][] 
+ []
+
 runsystem(pdflatex -interaction=batchmode -shell-escape -jobname "images/fig_in
 terweave" images/fig_interweave)...disabled (restricted).
 
 
-
 Package standalone Warning: Graphic 'images/fig_interweave.pdf' could not be bu
 ild.
-Shell escape activated? on input line 169.
+Shell escape activated? on input line 185.
 
 (images/fig_interweave.tex)
 File: images/fig_interweave.tex Graphic file (type tex)
@@ -621,17 +618,22 @@ derlay" images/fig_underlay)...disabled (restricted).
 
 Package standalone Warning: Graphic 'images/fig_underlay.pdf' could not be buil
 d.
-Shell escape activated? on input line 175.
+Shell escape activated? on input line 191.
 
 (images/fig_underlay.tex)
 File: images/fig_underlay.tex Graphic file (type tex)
- [6]) (chapter2.tex [7]
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[7 <./images/cooperativefc_model.PNG> <./images/cooperative_model.PNG>])
+(chapter2.tex [8]
 Chapter 2.
-) (chapter3.tex [8
+) (chapter3.tex [9
 
 ]
 Chapter 3.
-) (cr_main.bbl [9
+) (cr_main.bbl [10
 
 ]
 Overfull \hbox (65.86095pt too wide) in paragraph at lines 20--24
@@ -639,17 +641,17 @@ Overfull \hbox (65.86095pt too wide) in paragraph at lines 20--24
 ic/attachmatch/DOC-228542A1.pdf 
  []
 
-[10
+[11
 
-]) [11] (cr_main.aux) ) 
+]) [12] (cr_main.aux) ) 
 Here is how much of TeX's memory you used:
- 13885 strings out of 493323
- 281120 string characters out of 3139019
- 316621 words of memory out of 3000000
- 17127 multiletter control sequences out of 15000+200000
+ 13902 strings out of 493323
+ 278789 string characters out of 3139063
+ 317671 words of memory out of 3000000
+ 17142 multiletter control sequences out of 15000+200000
  10537 words of font info for 37 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,16n,80p,429b,1040s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 55i,16n,80p,429b,1041s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx
 12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C
@@ -657,9 +659,9 @@ Here is how much of TeX's memory you used:
  Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on cr_main.pdf (12 pages, 169282 bytes).
+Output written on cr_main.pdf (13 pages, 232495 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
+ 83 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 28 words of extra memory for PDF output out of 10000 (max. 10000000)
 

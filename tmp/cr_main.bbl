@@ -46,6 +46,17 @@ Federal~Communications Commission.
   cognitive radio technologies"}.
 \newblock ET Docket No. 03-108.
 
+\bibitem{wang}
+X.~Zheng J.~Wang, Q.~Wu and J.~Chen.
+\newblock \emph{"Cooperative Spectrum Sensing"}.
+\newblock Cognitive Radio Systems, Wei Wang (Ed.), InTech.
+
+\bibitem{mehta}
+H.~Mehta.
+\newblock \emph{"Recent Advances in Cognitive Radios"}.
+\newblock Washington University in St. Louis.
+\newline\urlprefix\url{http://www.cse.wustl.edu/jain/cse574-14/ftp/cr.pdf}
+
 \bibitem{srinivasa}
 S.~Srinivasa and S.~A. Jafar.
 \newblock \emph{"The Throughput Potential of Cognitive Radio: A Theoretical
@@ -83,5 +94,11 @@ L.~Tong S.~Geirhofer and B.~Sadler.
 \newblock \emph{"Dynamic spectrum access in the time domain: Modeling and
   exploiting white space"}.
 \newblock IEEE Commun. Mag., volume~45, no.~5, (2007), pages 66--72.
+
+\bibitem{husseini}
+A.~El-Hajj M.~Al-Husseini, K. Y.~Kabalan and C.~G. Christodoulou.
+\newblock \emph{"Reconfigurable Microstrip Antennas for Cognitive Radio"}.
+\newblock Advancement in Microstrip Antennas with Recent Applications, (2013),
+  pages 337--362.
 
 \end{thebibliography}
