@@ -1,38 +1,38 @@
-\contentsline {chapter}{\numberline {1}Cognitive Radio: A Brief Overview}{3}
-\contentsline {section}{\numberline {1.1}Introduction}{3}
-\contentsline {section}{\numberline {1.2}Radio Spectrum}{3}
-\contentsline {subsection}{\numberline {1.2.1}Interference Protection}{4}
-\contentsline {subsection}{\numberline {1.2.2}Dynamic Spectrum Access}{4}
-\contentsline {section}{\numberline {1.3}Cognitive Radio}{5}
-\contentsline {subsection}{\numberline {1.3.1}The Cognitive Cycle}{5}
-\contentsline {subsection}{\numberline {1.3.2}Spectrum Sensing}{6}
-\contentsline {subsubsection}{Non-Cooperative Sensing}{6}
-\contentsline {subsubsection}{Cooperative Sensing}{6}
-\contentsline {subsection}{\numberline {1.3.3}Spectrum Sharing Approaches}{7}
-\contentsline {subsubsection}{Interweave Approach}{7}
-\contentsline {subsubsection}{Underlay Approach}{7}
-\contentsline {subsubsection}{Overlay Approach}{8}
-\contentsline {section}{\numberline {1.4}Conclusion}{8}
-\contentsline {chapter}{\numberline {2}The Interweave Approach to Spectrum Sharing}{9}
-\contentsline {section}{\numberline {2.1}Introduction}{9}
-\contentsline {section}{\numberline {2.2}Problems}{9}
-\contentsline {section}{\numberline {2.3}Possible Methods}{9}
-\contentsline {subsection}{\numberline {2.3.1}Hypothesis Testing}{9}
-\contentsline {subsection}{\numberline {2.3.2}Energy Detection}{9}
-\contentsline {subsection}{\numberline {2.3.3}Matched Filters}{9}
-\contentsline {subsection}{\numberline {2.3.4}Feature Detection}{9}
-\contentsline {subsection}{\numberline {2.3.5}Cyclo-Stationary Detection}{9}
-\contentsline {section}{\numberline {2.4}Advantages and Disadvantages}{9}
-\contentsline {section}{\numberline {2.5}Conclusion}{9}
-\contentsline {chapter}{\numberline {3}The Underlay Approach to Spectrum Sharing}{10}
-\contentsline {section}{\numberline {3.1}Introduction}{10}
-\contentsline {section}{\numberline {3.2}Problems}{10}
-\contentsline {section}{\numberline {3.3}Possible Methods}{10}
-\contentsline {subsection}{\numberline {3.3.1}Power Control}{10}
-\contentsline {subsection}{\numberline {3.3.2}Interference Mitigation}{10}
-\contentsline {subsection}{\numberline {3.3.3}Beamforming}{10}
-\contentsline {subsection}{\numberline {3.3.4}Ultra Wide Band}{10}
-\contentsline {subsection}{\numberline {3.3.5}SpreadSpectrum Sensing}{10}
-\contentsline {subsection}{\numberline {3.3.6}Null Space MIMO}{10}
-\contentsline {section}{\numberline {3.4}Advantages and Disadvantages}{10}
-\contentsline {section}{\numberline {3.5}Conclusion}{10}
+\contentsline {chapter}{\numberline {1}Cognitive Radio: A Brief Overview}{4}
+\contentsline {section}{\numberline {1.1}Introduction}{4}
+\contentsline {section}{\numberline {1.2}Radio Spectrum}{4}
+\contentsline {subsection}{\numberline {1.2.1}Interference Protection}{5}
+\contentsline {subsection}{\numberline {1.2.2}Dynamic Spectrum Access}{5}
+\contentsline {section}{\numberline {1.3}Cognitive Radio}{6}
+\contentsline {subsection}{\numberline {1.3.1}The Cognitive Cycle}{6}
+\contentsline {subsection}{\numberline {1.3.2}Spectrum Sensing}{7}
+\contentsline {subsubsection}{Non-Cooperative Sensing}{7}
+\contentsline {subsubsection}{Cooperative Sensing}{7}
+\contentsline {subsection}{\numberline {1.3.3}Spectrum Sharing Approaches}{8}
+\contentsline {subsubsection}{Interweave Approach}{8}
+\contentsline {subsubsection}{Underlay Approach}{8}
+\contentsline {subsubsection}{Overlay Approach}{9}
+\contentsline {section}{\numberline {1.4}Conclusion}{9}
+\contentsline {chapter}{\numberline {2}The Interweave Approach to Spectrum Sharing}{10}
+\contentsline {section}{\numberline {2.1}Introduction}{10}
+\contentsline {section}{\numberline {2.2}Problems}{10}
+\contentsline {section}{\numberline {2.3}Possible Methods}{10}
+\contentsline {subsection}{\numberline {2.3.1}Hypothesis Testing}{10}
+\contentsline {subsection}{\numberline {2.3.2}Energy Detection}{10}
+\contentsline {subsection}{\numberline {2.3.3}Matched Filters}{10}
+\contentsline {subsection}{\numberline {2.3.4}Feature Detection}{10}
+\contentsline {subsection}{\numberline {2.3.5}Cyclo-Stationary Detection}{10}
+\contentsline {section}{\numberline {2.4}Advantages and Disadvantages}{10}
+\contentsline {section}{\numberline {2.5}Conclusion}{10}
+\contentsline {chapter}{\numberline {3}The Underlay Approach to Spectrum Sharing}{11}
+\contentsline {section}{\numberline {3.1}Introduction}{11}
+\contentsline {section}{\numberline {3.2}Problems}{11}
+\contentsline {section}{\numberline {3.3}Possible Methods}{11}
+\contentsline {subsection}{\numberline {3.3.1}Power Control}{11}
+\contentsline {subsection}{\numberline {3.3.2}Interference Mitigation}{11}
+\contentsline {subsection}{\numberline {3.3.3}Beamforming}{11}
+\contentsline {subsection}{\numberline {3.3.4}Ultra Wide Band}{11}
+\contentsline {subsection}{\numberline {3.3.5}SpreadSpectrum Sensing}{11}
+\contentsline {subsection}{\numberline {3.3.6}Null Space MIMO}{11}
+\contentsline {section}{\numberline {3.4}Advantages and Disadvantages}{11}
+\contentsline {section}{\numberline {3.5}Conclusion}{11}
